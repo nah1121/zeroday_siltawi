@@ -1,2 +1,5 @@
-console.log("Hello World")
-document.getElementsByName("h1")
+const person = {
+    id: 2,
+    firstname: "Abebe",
+}
+console.log(person.firstname);
